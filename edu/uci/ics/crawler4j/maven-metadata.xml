@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.uci.ics</groupId>
+  <artifactId>crawler4j</artifactId>
+  <versioning>
+    <versions>
+      <version>4.4.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180303133427</lastUpdated>
+  </versioning>
+</metadata>
